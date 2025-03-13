@@ -1,2 +1,1 @@
-# Create-Destroy
-Experience The Glamour
+# Create & Destroy: Experience The Glamour
